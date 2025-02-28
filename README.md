@@ -7,16 +7,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kurorobot&theme=discord)](https://github.com/kurorobot/github-profile-trophy)
 
-
-# NOW TRAINING
-
-<p align="left">
-<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
-<a href="[Foo_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[Foo_email]"/></a>
-</p>
-
-
-
 # My Skill (Infrastructure, Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=aws,terraform,python,docker,typescript,react,next,github,laravel,php,mysql,vscode,html,css,js" /> <br /><br />
@@ -25,8 +15,7 @@
   Ansible, Openstack and so on.
   
 # NOW TRAINING
-
-<img src="https://skillicons.dev/icons?i=aws.terraform,python,typescript,docker,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=aws,terraform,python,typescript,docker,vscode,github" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
