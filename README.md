@@ -1,20 +1,29 @@
-# SRE and Cloud Engineer in Japan👋
-### Just 32 years old 
-### Feel free to contact me anytime!👍
+![profile-views-counter](https://komarev.com/ghpvc/?username=kurorobot&color=red)
+
+# 🌱 Basic Information
+
+## ✨SRE, Cloud Infra Engineer
+
 #
 ![kurorobot's GitHub stats](https://github-readme-stats.vercel.app/api?username=kurorobot&show_icons=true&theme=vue-dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurorobot&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kurorobot&theme=discord)](https://github.com/kurorobot/github-profile-trophy)
 
-# My Skill
-
+# 🚀 My Skill
 <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,python,laravel,php,ts,react,nextjs,github,docker,ubuntu,openstack,linux,mysql,nginx,vscode,postman,html,css,js" /> <br /><br />
 
-  
-# NOW TRAINING
+# ⚡️ Now Trainig
 <img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,python,ts,docker,githubactions" /> <br /><br />
 
+# 💼 My Resume
+
+- [Site]()
+- [PDF]()
+
+# 📘 My Blog
+
+- [Mr.K'HP]()
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
