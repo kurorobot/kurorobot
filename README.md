@@ -7,12 +7,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kurorobot&theme=discord)](https://github.com/kurorobot/github-profile-trophy)
 
-# My Skill (Infrastructure, Programming Languages, Frameworks and Tools)
+# My Skill
 
 <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,python,laravel,php,ts,react,nextjs,github,docker,ubuntu,openstack,linux,mysql,nginx,vscode,postman,html,css,js" /> <br /><br />
 
-  ※Another skill and tools
-  Openstack and so on.
   
 # NOW TRAINING
 <img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,python,ts,docker,githubactions" /> <br /><br />
