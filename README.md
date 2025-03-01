@@ -9,13 +9,13 @@
 
 # My Skill (Infrastructure, Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,python,laravel,php,typescript,react,next,github,docker,mysql,vscode,html,css,js" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,python,laravel,php,ts,react,nextjs,github,docker,ubuntu,openstack,linux,mysql,nginx,vscode,postman,html,css,js" /> <br /><br />
 
   ※Another skill and tools
   Openstack and so on.
   
 # NOW TRAINING
-<img src="https://skillicons.dev/icons?i=aws,terraform,python,typescript,docker,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform,kubernetes,python,ts,docker,githubactions" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
